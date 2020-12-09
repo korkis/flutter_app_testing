@@ -1,6 +1,8 @@
 # flutter_app_testing
 
-A new Flutter project.
+Flutter Testing project.
+
+Codelab -  https://codelabs.developers.google.com/codelabs/flutter-app-testing#4
 
 ## Getting Started
 
